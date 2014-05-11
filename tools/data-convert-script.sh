@@ -19,7 +19,7 @@ for f in levels/*; do
 	if [[ "$cat" == "" ]]; then continue; fi
 	cat_char="?"
 	case "$cat" in
-		scene) cat_char="S" ;;
+		scene) cat_char="M" ;;
 		free) cat_char="F" ;;
 		train) cat_char="E" ;;
 		defi) cat_char="C" ;;
