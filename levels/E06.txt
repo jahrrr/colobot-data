@@ -1,0 +1,6 @@
+Title.E text="Functions" resume="Functions"
+Title.F text="Fonctions" resume="Fonctions"
+Title.P text="Funkcje" resume="Funkcje"
+Title.R text="Функции" resume="Функции"
+// End of level headers translations
+

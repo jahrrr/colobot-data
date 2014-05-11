@@ -1,0 +1,6 @@
+Title.E text="Fundamentals" resume="Fundamentals"
+Title.F text="Base" resume="Base"
+Title.P text="Podstawy" resume="Podstawy"
+Title.R text="Основы" resume="Основы"
+// End of level headers translations
+

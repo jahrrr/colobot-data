@@ -1,0 +1,6 @@
+Title.E text="On Volcano" resume="Volcano"
+Title.F text="Sur Volcano" resume="Volcano"
+Title.P text="Na Wulkanii" resume="Wulkania"
+Title.R text="На Вулкане" resume="Вулкан"
+// End of level headers translations
+

@@ -1,0 +1,6 @@
+Title.E text="Classes" resume="Classes"
+Title.F text="Classes" resume="Classes"
+Title.P text="Klasy" resume="Klasy"
+Title.R text="Classes" resume="Classes"
+// End of level headers translations
+

@@ -1,0 +1,6 @@
+Title.E text="On the Moon" resume="Moon"
+Title.F text="Sur la Lune" resume="Lune"
+Title.P text="Na Księżycu" resume="Księżyc"
+Title.R text="На Луне" resume="Луна"
+// End of level headers translations
+

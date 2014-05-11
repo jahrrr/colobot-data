@@ -1,0 +1,6 @@
+Title.E text="Mover" resume="Move"
+Title.F text="Déplacements" resume="Déplace"
+Title.P text="Poruszanie się" resume="Poruszanie się"
+Title.R text="Переселенец" resume="Движение"
+// End of level headers translations
+

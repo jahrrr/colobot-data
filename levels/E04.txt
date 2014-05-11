@@ -1,0 +1,6 @@
+Title.E text="Motors" resume="Motor"
+Title.F text="Moteurs" resume="Moteur"
+Title.P text="Silniki" resume="Silnik"
+Title.R text="Моторы" resume="Мотор"
+// End of level headers translations
+

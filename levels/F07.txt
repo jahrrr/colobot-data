@@ -1,0 +1,6 @@
+Title.E text="On Centaury" resume="Centaury"
+Title.F text="Sur Centaury" resume="Centaury"
+Title.P text="Na Centurii" resume="Centuria"
+Title.R text="На Центавре" resume="Центавр"
+// End of level headers translations
+
